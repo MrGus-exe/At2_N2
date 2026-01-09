@@ -1,0 +1,13 @@
+Tarso;19;202020;ADS
+Weldes;151515;Estrutura de Dados
+Tarso;19;24102985;ADS
+Tarso;19;202020;ADS
+Gustavo;18;202020;Ciencia da Computação
+Léo;22;12345;Medicina
+Ana Lúcia;19;222111;Medicina
+Adriana;2020;Modelagem
+Weldes;2020;Estrutura de Dados
+Bruno;18;8192;Ciencia da Computação
+João;20;90102;Designer
+Pedro;8291;Coach
+weldes;2020;estrutura de dados
